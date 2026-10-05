@@ -10,15 +10,15 @@ This repository analyzes lung cancer patients' clinical and gene expression prof
 # Installation 
 To run this repository locally, follow these steps:
 1. At first, clone this repository using this command:   
- `git clone https://github.com/eshita53/Programming-2-Course-Assignment-Submission/tree/main/Final_assignment`
+ `git clone https://github.com/eshita53/Gene_expression_analysis`
 2. Then go to the folder which contains the repository contents.
-   `cd Programming-2-Course-Assignment-Submission`
+   `cd Gene_expression_analysis`
 3. The next step is to configure your environment. The conda package manager is used in this tutorial. Please ensure that conda or Miniconda are properly installed and configured on your system.
    Run the following command inside the folder to create the environment.
    `conda env create -f environment.yml`
 4. Use the following command to activate the environment:
-   `conda activate programming-2`
-5. From inside the `programming-2` environment, launch the Jupyter notebook server:
+   `conda activate gene_analysis`
+5. From inside the `gene_analysis` environment, launch the Jupyter notebook server:
    `jupyter notebook`
 
 
