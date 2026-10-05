@@ -1,0 +1,24 @@
+name: programming-2
+channels:
+  - conda-forge
+dependencies:
+  - bokeh>=3.3.1
+  - geojson
+  - geopandas
+  - folium
+  - panel
+  - jupyter_client<8
+  - notebook
+  - pandas
+  - numpy
+  - python>=3.12
+-  odfpy
+-  xlrd
+- matplotlib_venn
+- plotly
+- dash_bio
+- jupyter_dash
+- scikit-learn
+- dash
+- dash_bootstrap_components
+- dash_bootstrap_templates

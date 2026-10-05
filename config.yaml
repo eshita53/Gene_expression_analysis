@@ -1,0 +1,4 @@
+microarray: 'data/microarray_data.txt'
+gene_sample: 'data/gene_sample_data.ods'
+gene_series: 'data/gene_series_information.ods'
+lung3_metadata: 'data/Lung3.metadata.xls'
