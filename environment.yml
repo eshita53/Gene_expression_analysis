@@ -1,4 +1,4 @@
-name: programming-2
+name: gene_analysis
 channels:
   - conda-forge
 dependencies:
